@@ -1,2 +1,3 @@
-# FocalLoss-FGVC
-Focal loss for fine-grained categorization
+# Codes for *PFNet: A Novel Part Fusion Network for Fine-grained image Categorization*
+
+TBD

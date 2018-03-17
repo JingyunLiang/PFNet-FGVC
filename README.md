@@ -23,7 +23,7 @@ Prepare the corresponding datasets ([CUB-200-2011](http://www.vision.caltech.edu
 ---Acura Integra Type R 2001_test.txt
 ```
 
-For part proposal, we also provide codes for generating part proposals using [Selective Search Window](https://koen.me/research/selectivesearch/). Please refer to the offical guide and use Matlab codes provide in our `part proposal`.
+For part proposal, we also provide codes for generating part proposals using [Selective Search Window](https://koen.me/research/selectivesearch/). Please refer to the guide provide in our `part proposal` directory.
 
 
 

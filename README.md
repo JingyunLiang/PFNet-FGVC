@@ -9,7 +9,7 @@ We propose a novel and simple part fusion network (PFNet) to effectively use dis
 
 ## Prepare Datasets
 
-Prepare the corresponding datasets ([CUB-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html), [Stanford Cars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html) or [FGVC-Aircraft](http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)) before training PFNet. For quick start, you can download the dataset [Stanford Cars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html), proposed rois files [car_rois500.tar.gz]() and prepared train/test split file [car_splits.tar.gz](). Unzip these files and organize them in the current working directory as follows:
+Prepare the corresponding datasets ([CUB-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html), [Stanford Cars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html) or [FGVC-Aircraft](http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)) before training PFNet. For quick start, you can download the dataset [Stanford Cars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html), proposed rois files [car_rois500.tar.gz](https://drive.google.com/open?id=18DWMrK2WVEMGzRdMpgqgNiRbWOTtRwnP) and prepared train/test split file [car_splits.tar.gz](https://drive.google.com/open?id=18DWMrK2WVEMGzRdMpgqgNiRbWOTtRwnP). Unzip these files and organize them in the current working directory as follows:
 ```
 -car
 --car_ims
@@ -40,7 +40,7 @@ Please follow the instuctions in [pytorch-faster-rcnn](https://github.com/ruotia
 
 3, Run `PFNet_train_test.py`
 
-You can modify fundamental parameters in the `main()` function. The training process might be like follows. By setting `args.evaluate = True`, you can download [our model]() and test it directly. 
+You can modify fundamental parameters in the `main()` function. The training process might be like follows. By setting `args.evaluate = True`, you can download [our model](https://drive.google.com/open?id=18DWMrK2WVEMGzRdMpgqgNiRbWOTtRwnP) and test it directly. 
 
 ![alt text](https://github.com/MichaelLiang12/PFNet-FGVC/blob/master/pic/dog_loss_acc1.png "visualization")
 

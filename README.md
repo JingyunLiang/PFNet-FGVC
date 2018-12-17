@@ -65,5 +65,20 @@ For Selective Search Window and RoiPooling module.
     Year = {2017}
 }
 ```
-## To do
-Add citation for our PFNet.
+## Citation for our PFNet
+```
+@Article{Liang2018,
+author="Liang, Jingyun
+and Guo, Jinlin
+and Guo, Yanming
+and Lao, Songyang",
+title="PFNet: a novel part fusion network for fine-grained visual categorization",
+journal="Multimedia Tools and Applications",
+year="2018",
+month="Dec",
+day="15",
+issn="1573-7721",
+doi="10.1007/s11042-018-7047-5",
+url="https://doi.org/10.1007/s11042-018-7047-5"
+}
+```
